@@ -1,0 +1,18 @@
+id: PEB0E7EB8
+initial_creation_type: input
+source_metadata:
+  title: Literary Theory
+  language: bo
+  description: 'Texts related to the various aspects of literary composition:'
+  volume:
+    38776d79bf5840abacc393036a4f7379:
+      title: Notes from Miscellaneous Writings
+      parent: Exposition
+    b37c04f38cf645a8b665bf8eaf896706:
+      title: On Literary Composition
+      parent: Literary Composition
+    482244a98adb4a34b9ce1839dab2a1bd:
+      title: Types of Spiritual Song
+      parent: Spiritual Songs
+created_at: '2022-03-01T04:15:27.485310'
+last_modified_at: '2022-03-01T04:15:27.485315'
